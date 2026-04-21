@@ -1,6 +1,6 @@
 # 🎓 Valiente Student Management System
 
-A full-stack student registry web app built with **PHP, MySQL, HTML, CSS, and Vanilla JavaScript** — focused on Negros Oriental · Region VII, Philippines.
+A student registry web app built with **PHP, MySQL, HTML, CSS, and Vanilla JavaScript** — focused on Negros Oriental · Region VII, Philippines.
 
 ---
 
@@ -109,6 +109,16 @@ Dumaguete City, Bacong, Dauin, Sibulan, Valencia, Bais City, Bayawan City, Guihu
 
 ---
 
+## 👥 Team
+
+| Name | Role |
+|---|---|
+| **Khian Valiente** | Frontend — UI/UX, HTML, CSS, JavaScript |
+| **Aljen Driech Marcillana** | Backend — PHP, Database, Server Logic |
+| **Chris Anthony Daugdaug** | Backend — PHP, Database, Server Logic |
+
+---
+
 ## 📬 Contact
 
 - 📧 Email: khianvaliente13@email.com
@@ -126,4 +136,4 @@ Dumaguete City, Bacong, Dauin, Sibulan, Valencia, Bais City, Bayawan City, Guihu
 
 ---
 
-© 2025 Khian Valiente. All rights reserved.
+© 2025 Khian Valiente, Aljen Driech Marcillana & Chris Anthony Daugdaug. All rights reserved.
